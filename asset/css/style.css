@@ -932,7 +932,7 @@ main section em {
     .section5 section {
         flex-wrap: wrap;
         height: 100%;
-        padding: 3rem 1rem;
+        /* padding: 3rem 1rem; */
     }
     .section5 section span {
         padding: 1rem;
